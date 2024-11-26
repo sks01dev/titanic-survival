@@ -60,15 +60,6 @@ The dataset consists of 891 rows and 12 columns, providing comprehensive details
 
 ---
 
-## **🌟 Visualizations**
-- **Survival by Gender:**
-  ![Survival by Gender](https://example.com/survival_gender_chart.png)
-- **Age Distribution:**
-  ![Age Distribution](https://example.com/age_distribution_chart.png)
-
-*(Replace placeholders with your actual visualizations)*
-
----
 
 ## **🚀 How to Run**
 1. Clone the repository:
