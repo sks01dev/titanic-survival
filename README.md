@@ -2,8 +2,6 @@
 
 # 🚢 **Titanic Survival Analysis (Project from Udacity Nanodegree Program)**
 
-![Titanic](https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg)
-
 ## **📋 Project Overview**
 This project analyzes the survival patterns of passengers aboard the RMS Titanic using a machine learning model. By leveraging features like age, gender, ticket class, and fare, the model predicts whether a passenger would survive based on historical data.
 
