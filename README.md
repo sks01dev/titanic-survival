@@ -73,7 +73,7 @@ The dataset consists of 891 rows and 12 columns, providing comprehensive details
 ## **🚀 How to Run**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/titanic-survival-analysis.git
+   git clone https://github.com/sks01dev/titanic-survival.git
    ```
 2. Install dependencies:
    ```bash
@@ -93,11 +93,3 @@ The dataset consists of 891 rows and 12 columns, providing comprehensive details
 
 ---
 
-## **📬 Contact**
-Have questions or feedback? Reach out:
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **GitHub:** [yourusername](https://github.com/yourusername)
-
----
-
-This README should provide a clear, professional, and visually appealing overview of your project. Let me know if you'd like to customize further or add actual visualizations!
